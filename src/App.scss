@@ -1,0 +1,126 @@
+$white:#ffffff;
+$header_back :#2E2249;
+$header_border : #707070;
+$attention_body: #E8EEFC;
+.App{
+  width:100vw;
+  height: 100vh;
+
+}
+.AppHeader{
+  width: 100%;
+  height: 14vh;
+  background-color: #2E2249;
+  border-color: #707070;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  img{
+    width:20vw;
+  height: 6vh;  }
+  li{
+    color: #ffffff;
+    font-size: 5vw;
+    font-weight:500;
+    text-decoration: none;
+    list-style:none;
+  }
+}
+.AppBody{
+  width: 80vw;
+  height: 86vh;
+  display: grid;
+  grid-row: 3fr 2fr 2fr;
+  padding-right: 10vw;
+  padding-left: 10vw;
+  padding-bottom: 5vh;
+  .valid_Body{
+       .name{
+        margin-top: 3vh;
+      display: flex;
+      justify-content: flex-end;
+    .sname{
+      margin-right: auto;
+      }
+    }
+    .birthday{
+      margin-top: 3vh;
+      width: 1;
+      display: flex;
+      justify-content: flex-end;
+      .sbirth{
+        margin-right: auto;
+      }
+    }
+   input{
+    border-style:none;
+    border-bottom:solid 1px #cacaca;
+    border-collapse:collapse;
+     width:60vw;
+    }
+
+    .validate_div{
+      margin-top: 3vh;
+      display: flex;
+      justify-content: flex-end;
+    }
+    .validate_btn{
+      background-color: #D1DEFC;
+      border:none;
+      width:17vw;
+      text-align: center;
+      border-radius: 12vh;
+    }
+    .birthday_description{
+      color: #868696;
+      margin-top: 3vh;
+      font-size: 2vw;
+      display: flex;
+      justify-content: flex-end;
+      
+    }
+}
+.valid_Coupon{
+  .coupon{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    .scoupon{
+      margin-right: auto;
+    }
+    .coupon_input{
+      border-color: #D1DEFC;
+      border-radius: 12vh;
+      box-shadow: none;
+       width:60vw;
+    }
+  }
+  .submit_div{
+    margin-top: 3vh;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .submit_btn{
+    background-color: #D1DEFC;
+      border:none;
+      width:17vw;
+      text-align: center;
+      border-radius: 12vh;
+  }
+}
+  .attention-Body{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    padding-left: 5vw;
+    text-align: start;
+    border-radius: 12vh;
+    width: 90%;
+    height: 90%;
+    background-color: $attention_body;
+    font-size:2vw;
+  }
+}
+hr{
+  border-color: #514593;
+}
