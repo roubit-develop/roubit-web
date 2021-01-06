@@ -5,11 +5,10 @@ $attention_body: #E8EEFC;
 .App{
   width:100vw;
   height: 100vh;
-
 }
 .AppHeader{
   width: 100%;
-  height: 14vh;
+  height: 13vh;
   background-color: #2E2249;
   border-color: #707070;
   display: flex;
@@ -29,9 +28,9 @@ $attention_body: #E8EEFC;
 }
 .AppBody{
   width: 80vw;
-  height: 86vh;
+  height: 87vh;
   display: grid;
-  grid-row: 3fr 2fr 2fr;
+  grid-row: 3fr 2fr 1.5fr;
   padding-right: 10vw;
   padding-left: 10vw;
   padding-bottom: 5vh;
@@ -109,18 +108,23 @@ $attention_body: #E8EEFC;
       border-radius: 12vh;
   }
 }
+.attention{
+  margin-top: 3vh;
+}
   .attention-Body{
-    padding-top: 2vh;
-    padding-bottom: 2vh;
-    padding-left: 5vw;
+    padding-top: 3vh;
+    padding-left: 7vw;
     text-align: start;
     border-radius: 12vh;
     width: 90%;
-    height: 90%;
+    height:50%;
     background-color: $attention_body;
     font-size:2vw;
   }
 }
 hr{
   border-color: #514593;
+}
+a{
+  text-decoration: none;
 }
