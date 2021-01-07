@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/roubit-web/static/css/main.dbe3cb30.chunk.css",
+    "main.css": "/roubit-web/static/css/main.938f7038.chunk.css",
     "main.js": "/roubit-web/static/js/main.9070c6cb.chunk.js",
     "main.js.map": "/roubit-web/static/js/main.9070c6cb.chunk.js.map",
     "runtime-main.js": "/roubit-web/static/js/runtime-main.27664159.js",
@@ -10,13 +10,13 @@
     "static/js/3.0e32869a.chunk.js": "/roubit-web/static/js/3.0e32869a.chunk.js",
     "static/js/3.0e32869a.chunk.js.map": "/roubit-web/static/js/3.0e32869a.chunk.js.map",
     "index.html": "/roubit-web/index.html",
-    "static/css/main.dbe3cb30.chunk.css.map": "/roubit-web/static/css/main.dbe3cb30.chunk.css.map",
+    "static/css/main.938f7038.chunk.css.map": "/roubit-web/static/css/main.938f7038.chunk.css.map",
     "static/js/2.9eca22f2.chunk.js.LICENSE.txt": "/roubit-web/static/js/2.9eca22f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.27664159.js",
     "static/js/2.9eca22f2.chunk.js",
-    "static/css/main.dbe3cb30.chunk.css",
+    "static/css/main.938f7038.chunk.css",
     "static/js/main.9070c6cb.chunk.js"
   ]
 }
