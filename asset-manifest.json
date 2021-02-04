@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/roubit-web/static/css/main.3976cedb.chunk.css",
-    "main.js": "/roubit-web/static/js/main.c1164efa.chunk.js",
-    "main.js.map": "/roubit-web/static/js/main.c1164efa.chunk.js.map",
+    "main.js": "/roubit-web/static/js/main.f20193ec.chunk.js",
+    "main.js.map": "/roubit-web/static/js/main.f20193ec.chunk.js.map",
     "runtime-main.js": "/roubit-web/static/js/runtime-main.a8c7d87a.js",
     "runtime-main.js.map": "/roubit-web/static/js/runtime-main.a8c7d87a.js.map",
     "static/js/2.124deda6.chunk.js": "/roubit-web/static/js/2.124deda6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a8c7d87a.js",
     "static/js/2.124deda6.chunk.js",
     "static/css/main.3976cedb.chunk.css",
-    "static/js/main.c1164efa.chunk.js"
+    "static/js/main.f20193ec.chunk.js"
   ]
 }
